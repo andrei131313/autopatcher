@@ -15,7 +15,6 @@ mscoree.dll cab6c049 131072
 MSS32.DLL 6c5812e3 349696
 msvcp60.dll 7f386569 401462
 MSVCRTD.DLL 192baed0 434252
-patchlist.txt 9d2b5ac2 11765
 patchw32.dll a4a5e8de 202240
 python27.dll cd8e250a 2512896
 SpeedTreeRT.dll 943eabf3 1806336
