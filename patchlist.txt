@@ -1,4 +1,4 @@
-artpclnt.dll 724857a9 110592
+/artpclnt.dll 724857a9 110592
 /bdvid32.dll 4a8edbe1 7610352
 /channel.inf 6d67388b 5
 /config.exe f51a5a71 3758592
