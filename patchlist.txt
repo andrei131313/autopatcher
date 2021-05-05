@@ -111,14 +111,6 @@ lib/xml/dom/__init__.pyc 147d3ad8 7337
 lib/xml/parsers/expat.pyc 9095f928 326
 lib/xml/parsers/invers.pyc 52893a36 16
 lib/xml/parsers/__init__.pyc 64cc8e16 353
-logs/metin2client_40999_20210120_225944.dmp 1ca36c08 314207
-logs/metin2client_40999_20210204_015427.dmp 02578a25 302092
-logs/metin2client_40999_20210304_010858.dmp a09d9e17 331205
-logs/metin2client_40999_20210308_023549.dmp 5692c59a 308970
-logs/metin2client_40999_20210311_004136.dmp e737b0f6 350819
-logs/metin2client_40999_20210311_011708.dmp 737baf90 313347
-logs/metin2client_40999_20210317_235512.dmp 4b8d1532 293257
-logs/metin2client_40999_20210331_180009.dmp eec29983 311063
 mark/10_0.tga 3b2316ad 1049126
 miles/mss32.dll 6c5812e3 349696
 miles/mssa3d.m3d 6c0abc4c 83456
