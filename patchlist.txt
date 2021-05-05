@@ -19,7 +19,7 @@ patchw32.dll a4a5e8de 202240
 python27.dll cd8e250a 2512896
 SpeedTreeRT.dll 943eabf3 1806336
 switchbot.pkl c245ed9a 262
-syserr.txt effbdda4 1556
+syserr.txt 00000000 0
 unicows.dll 1816d4f4 258352
 BGM/another_way.mp3 ba90fd87 3500084
 BGM/a_rhapsody_of_war.mp3 18daa1eb 5529185
