@@ -9,6 +9,7 @@ ijl15.dll 876fdda6 372736
 ilu.dll 688c7661 27648
 locale.cfg 5e9fe140 13
 locale_list.txt 6a5b90ce 33
+metin2.cfg 3b566ed9 356
 MetinX.exe d6e5b277 4952576
 mouse.cfg b3f32436 3
 mscoree.dll cab6c049 131072
